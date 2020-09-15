@@ -1,0 +1,13 @@
+#!/bin/sh
+for driver in qla2xxx qla4xxx qlcnic qlge qed qede qedf qedi qedr bnx2 bnx2x bnx2fc bnx2i cnic
+do
+	if [ -f "/sys/module/$driver/version" ]
+	then
+		version=$(cat /sys/module/$driver/version)
+		printf "%-8s %-8s" $driver $version
+		printf "\n"
+	else
+		printf "%-8s %s" $driver "not loaded"
+		printf "\n"
+fi
+done

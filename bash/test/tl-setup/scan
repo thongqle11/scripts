@@ -1,0 +1,7 @@
+echo - - - > /sys/class/scsi_host/host$1/scan
+if [ "$?" = "0" ]; then
+echo "Scan successful on scsi_host $1"
+fi
+if [ "$?" = "1" ]; then
+echo 'Usage: scan [scsi_host#]'
+fi

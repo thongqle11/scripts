@@ -1,0 +1,28 @@
+Tape Testing
+
+Connect tape and check for it.s status: mt .f /dev/nst0 stat
+
+Ftp to 172.17.176.109 and get all files from /disk2/apps/tape
+Copy all files from tape directory
+
+RPM to install for mt is mt-st-x.xxxx
+
+#cp data_even_short data_even_short.org
+
+# while true
+#do
+#cat data_even_short.org >> data_even_short  
+#done
+(hit <ctrl> <c> to stop quickly as this will fill up disk)
+
+#chmod 777 testscriptvar
+#chmod 777 lrtest
+
+#./testscriptvar 0  (read/writes to tape)
+
+To span multiple tapes, first fill the drive with max data and run the following:
+
+Note: Some RedHat distros may not support .mt. command. Use dd to run i/o
+
+#dd if= /tape/data.even.short of= /dev/nst0 bs=1024
+

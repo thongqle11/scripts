@@ -1,0 +1,2 @@
+multipath -F;multipath -v3; multipath -ll
+

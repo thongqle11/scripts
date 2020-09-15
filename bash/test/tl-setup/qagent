@@ -1,0 +1,21 @@
+#!/bin/bash
+if [ "$1" == "stop" ]
+then
+	service qlremote stop
+	service iqlremote stop
+	service netqlremote stop
+elif [ "$1" == "start" ]
+then
+	service qlremote start
+	service iqlremote start
+	service netqlremote start
+elif [ "$1" == "status" ]
+then
+	service qlremote status
+	service iqlremote status
+	service netqlremote status
+else
+	echo "Usage:"
+	echo "qagent start|stop"
+	exit
+fi

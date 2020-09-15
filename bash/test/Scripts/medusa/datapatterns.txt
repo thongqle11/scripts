@@ -1,0 +1,71 @@
+       34 +AD0-  32-bit value - 10G Continuous Jitter Pattern50 +AD0-  32-bit value - Fibre Channel Blink pattern +ACM-2
+       25 +AD0-  32-bit value - Fibre Channel CJPAT - All Transition
+       26 +AD0-  32-bit value - Fibre Channel CSPAT - Supply Noise Test
+       27 +AD0-  32-bit value - Fibre Channel JTPAT - Jitter Tolerance51 +AD0-  32-bit value - Fibre Channel Blink pattern +ACM-3 (high frequency)
+       52 +AD0-  32-bit value - Fibre Channel Blink pattern +ACM-4 (2 bits off/on)
+       53 +AD0-  32-bit value - Fibre Channel Blink pattern +ACM-5 (low frequency)
+       54 +AD0-  32-bit value - SATA Composite-bit Pattern (COMP)
+       55 +AD0-  32-bit value - SATA Low Translation Density Pattern (LTDP)
+       56 +AD0-  32-bit value - SATA High Translation Density Pattern (HTDP)
+       57 +AD0-  32-bit value - SATA Low Frequency Spectral Content Pattern (LFSCP)
+       58 +AD0-  32-bit value - SATA Simultaneous Switching Outputs Pattern (SSOP)
+       59 +AD0-  32-bit value - SATA Lone-Bit Pattern (LBP)
+       31 +AD0-  16-bit value - Checkerboard1 +AD0-   8-bit value - Fixed pattern (specify value with -y0x+ACMAIw-)
+        2 +AD0-  16-bit value - Fixed pattern (specify value with -y0x+ACMAIwAjACM-)
+        3 +AD0-  32-bit value - Fixed pattern - 1st FOP 0xFFFFFFFF, 2nd:0x00000000
+        4 +AD0-  32-bit value - Fixed pattern (specify value with -y0x+ACMAIwAjACMAIwAjACMAIw-)
+        5 +AD0-  32-bit value - Noise pattern +ACM-1 - Checkerboard
+        6 +AD0-  32-bit value - Noise pattern +ACM-2 - Blinking bus
+        7 +AD0-  32-bit value - Noise pattern +ACM-3 - Walking/XOR bits
+        8 +AD0-   8-bit value - Walking pattern 0x00 - 0xFF - 0x00
+        9 +AD0-   8-bit value - Walking double  0x0000, 0x0101, 0x0202...etc
+       10 +AD0-   8-bit value - Walking quad    0x00000000, 0x01010101...etc
+       11 +AD0-  16-bit value - Noise pattern +ACM-4 - SCSI Blinking bus
+       12 +AD0-  16-bit value - Noise pattern +ACM-5 - SCSI Alternating parity bus
+       13 +AD0-  64-bit value - Noise pattern +ACM-6 - Checkerboard
+       14 +AD0-  64-bit value - Noise pattern +ACM-7 - Blinking bus
+       15 +AD0-  64-bit value - Noise pattern +ACM-8 - Walking/XOR bits
+       16 +AD0-  16-bit value - Walking pattern 0x0000-0xFFFF
+       17 +AD0-  16-bit value - Walking pattern 0x0000-0xFFFF-0x0000
+       18 +AD0-  32-bit value - Fibre Channel Low Frequency Alternating
+       19 +AD0-  32-bit value - Fibre Channel Low Frequency Fixed +ACM-1
+       20 +AD0-  32-bit value - Fibre Channel Low Frequency Fixed +ACM-2
+       21 +AD0-  32-bit value - Fibre Channel Low Transition Alternating
+       22 +AD0-  32-bit value - Fibre Channel Low Transition Fixed +ACM-1
+       23 +AD0-  32-bit value - Fibre Channel Low Transition Fixed +ACM-2
+       24 +AD0-  32-bit value - Fibre Channel High Transition Fixed
+       25 +AD0-  32-bit value - Fibre Channel CJPAT - All Transition
+       26 +AD0-  32-bit value - Fibre Channel CSPAT - Supply Noise Test
+       27 +AD0-  32-bit value - Fibre Channel JTPAT - Jitter Tolerance
+       28 +AD0-  64-bit value - Alternating Blink 00000000FFFFFFFFF FFFFFFFF0000000
+       29 +AD0-  64-bit value - Walking Bits 0101010101010101 0202020202020202 etc.
+       30 +AD0-  32-bit value - Network noise pattern (0x492/0x6db reversed)
+       
+       32 +AD0-  32-bit value - Walking pattern - repeats per FOP
+       33 +AD0-  32-bit value - Walking pattern - repeats after 4GB written
+       
+       35 +AD0-   8-bit value - Random
+       36 +AD0-  32-byte value - Chipset Noise Pattern +ACM-1 - Modified l18
+       37 +AD0-  32-bit value - Fibre Channel Low Frequency Transitions
+       38 +AD0-  32-bit value - Fibre Channel Neutral Noise pattern +ACM-1
+       39 +AD0-  32-bit value - Fibre Channel Neutral Noise pattern +ACM-2
+       40 +AD0-  32-bit value - Fibre Channel Blink pattern +ACM-1
+       41 +AD0-  64-bit value - Bit increment/decrement
+       42 +AD0-  16-bit value - Alternating blink (bit, nibble, byte, word)
+       43 +AD0-  64-byte value - Fibre Channel ISI Killer Pattern
+       44 +AD0-  32-bit value - Fibre Channel 1KJPAT (CJTPAT plus ISI Killer)
+       45 +AD0-   8-bit value - Walking Flip/Flop Bytes  00FF0001FE0102FD02 etc.
+       46 +AD0-  32-bit value - Data pattern set to buffer memory addresses.
+       47 +AD0-  Scrambler pattern one (58 bits random, 134 bits 0.)
+       48 +AD0-  Scrambler pattern two (single bit on, then off bits with -L+ACM-.)
+       49 +AD0-  Scrambler pattern three (Off bits with -L+ACM-, then single bit on.)
+       60 +AD0-   8-bit value - 8b/10b Random Neutral Pattern
+       61 +AD0-   8-bit value - SAS CJTPAT (JTPAT RD+/RA-)
+       62 +AD0-   8-bit value - 8b/10b Random Neutral Pattern with inversion
+       69 +AD0-   8-bit value - Fixed pattern of 0x00000000
+       94 +AD0-  32-bit value - PCI Parity alternating pattern
+       96 +AD0-  16-bit value - Alternating 0xAAAA, 0x5555
+       99 +AD0-  Custom Blink  (use -L+ACM- to specify blink length in bits)
+       99w +AD0-  Custom Blink  (use -L+ACM- to specify blink length in bits)
+       99o +AD0-  Custom Blink  (use -L+ACM- to specify blink length in bits)
+       99f +AD0-  Custom Blink  (use -L+ACM- to specify blink length in bits)

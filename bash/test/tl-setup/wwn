@@ -1,0 +1,31 @@
+#!/bin/sh
+fc_dirs=/sys/class/fc_host/host*
+if [ $# -gt 1 ]; then
+	echo "Too many arguments"
+	echo "Usage:"
+	echo "   1. wwn          -displays all wwns"
+	echo "   2. wwn [host#]  -displays wwn of host$"
+elif [ $# -eq 1 ]; then 
+	if [ ! -f "/sys/class/fc_host/host$1/port_name" ]; then
+		echo "Wwn not availalbe for host$1"
+	else
+		echo "host$1 `cat /sys/class/fc_host/host$1/port_name`"
+	fi
+elif [ $# -eq 0 ]; then
+for dir in $fc_dirs
+do
+	hostno=`basename $dir`
+	if [ -f "$dir/port_name" ]
+        then
+		wwn=$(cat $dir/port_name)
+                printf "%-8s %-8s" $hostno $wwn
+                printf "\n"
+	else
+		printf "%-8s %s" $hostno "wwn not available"
+                printf "\n"
+	fi
+
+done
+else
+	echo "Error"
+fi

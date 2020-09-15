@@ -1,0 +1,6 @@
+ips=($(hostname -I))
+
+for ip in "${ips[@]}"
+do
+    echo $ip
+done

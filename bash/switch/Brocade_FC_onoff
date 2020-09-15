@@ -1,0 +1,39 @@
+#!/bin/sh
+echo "***************************************"
+echo "***************************************"
+echo "   SETTING BROCADE CEE PORTS ON/OFF   *"
+echo "***************************************"
+echo "***************************************"
+echo " Please enter the BROCADE SWITCH IP "
+read SWITCHIP
+echo "Please enter the First FC Port"
+read PORT1
+echo "Please enter the Second FC Port" 
+read PORT2
+while true
+do
+  ( sleep 5
+  echo admin
+  sleep 2
+  echo Qlogic01
+  sleep 2
+  echo portdisable $PORT1
+  echo "Disabling port $PORT1 at $(date)" >> log.log 
+  sleep 5
+  
+  echo portenable $PORT1 
+  echo "Enabling port $PORT1 at $(date)" >> log.log 
+  sleep 20
+ 
+  echo portdisable $PORT2 
+  echo "Disabling port $PORT2 at $(date)" >> log.log 
+  sleep 5
+  
+  echo portenable $PORT2
+  echo "Enabling port $PORT2 at $(date)" >> log.log 
+  sleep 20
+
+  echo exit
+  sleep 2
+) | telnet $SWITCHIP 
+done

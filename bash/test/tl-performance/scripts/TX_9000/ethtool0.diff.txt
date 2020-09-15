@@ -1,0 +1,10 @@
+Packets:
+tx_ucast_pkts : 6958029
+rx_ucast_pkts : 2880951
+
+Discards:
+no_buff_discards : 0
+brb_discards : 0
+mftag_filter_discards : 0
+mac_filter_discards : 0
+tx_err_drop_pkts : 0

@@ -1,0 +1,51 @@
+mpathcv (3600c0ff00012bec13788904f02000000) dm-188 HP,P2000G3 FC/iSCSI
+[size=1.9G][features=1 queue_if_no_path][hwhandler=0]
+\_ round-robin 0 [prio=10][enabled]
+ \_ 3:0:1:25 sddx 71:240  [active][ready]
+\_ round-robin 0 [prio=50][enabled]
+ \_ 2:0:1:25 sdbd 67:112  [active][ready]
+mpaths (3600508b40008d3530000a000013b0000) dm-71 HP,HSV300
+[size=4.0G][features=1 queue_if_no_path][hwhandler=0]
+\_ round-robin 0 [prio=50][active]
+ \_ 2:0:2:12 sddl 71:48   [active][ready]
+\_ round-robin 0 [prio=10][enabled]
+ \_ 3:0:3:12 sdgy 132:224 [active][ready]
+mpathal (360060e800561ce00000061ce000004f8) dm-7 HP,OPEN-V
+[size=9.8G][features=1 queue_if_no_path][hwhandler=0]
+\_ round-robin 0 [prio=2][active]
+ \_ 2:0:3:22 sdhz 134:144 [active][ready]
+ \_ 3:0:2:22 sdfp 130:176 [active][ready]
+mpathci (350002ac000631522) dm-351 3PARdata,VV
+[size=2.0G][features=1 queue_if_no_path][hwhandler=0]
+\_ round-robin 0 [prio=2][active]
+ \_ 3:0:0:4  sdbh 67:176  [active][ready]
+ \_ 2:0:0:4  sdd  8:48    [active][ready]
+mpathdn (3600c0ff00012bec13488904f04000000) dm-248 HP,P2000G3 FC/iSCSI
+[size=1.9G][features=1 queue_if_no_path][hwhandler=0]
+\_ round-robin 0 [prio=10][enabled]
+ \_ 3:0:1:7  sdcz 70:112  [active][ready]
+\_ round-robin 0 [prio=50][enabled]
+ \_ 2:0:1:7  sdaj 66:48   [active][ready]
+mpathbd (360060e800561ce00000061ce000004e6) dm-132 HP,OPEN-V
+[size=9.8G][features=1 queue_if_no_path][hwhandler=0]
+\_ round-robin 0 [prio=2][active]
+ \_ 2:0:3:4  sdgh 131:208 [active][ready]
+ \_ 3:0:2:4  sdem 128:224 [active][ready]
+mpathf (3600508b40008d3530000a000016f0000) dm-37 HP,HSV300
+[size=4.0G][features=1 queue_if_no_path][hwhandler=0]
+\_ round-robin 0 [prio=50][active]
+ \_ 2:0:2:25 sdfj 130:80  [active][ready]
+\_ round-robin 0 [prio=10][enabled]
+ \_ 3:0:3:25 sdhs 134:32  [active][ready]
+mpathda (3600c0ff00012bec13688904f03000000) dm-203 HP,P2000G3 FC/iSCSI
+[size=1.9G][features=1 queue_if_no_path][hwhandler=0]
+\_ round-robin 0 [prio=10][enabled]
+ \_ 3:0:1:20 sddr 71:144  [active][ready]
+\_ round-robin 0 [prio=50][enabled]
+ \_ 2:0:1:20 sdaw 67:0    [active][ready]
+mpathax (360060e800561ce00000061ce000004ec) dm-101 HP,OPEN-V
+[size=9.8G][features=1 queue_if_no_path][hwhandler=0]
+\_ round-robin 0 [prio=2][active]
+ \_ 2:0:3:10 sdgs 132:128 [active][ready]
+ \_ 3:0:2:10 sdex 129:144 [active][ready]
+

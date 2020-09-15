@@ -1,0 +1,5 @@
+chmod 777 /sys/module/qla2xxx/parameters/ql2xextended_error_logging
+echo $1 > /sys/module/qla2xxx/parameters/ql2xextended_error_logging
+echo "FC extended error logging is set to..."
+cat /sys/module/qla2xxx/parameters/ql2xextended_error_logging
+

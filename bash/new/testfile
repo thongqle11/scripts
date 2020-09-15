@@ -1,0 +1,1387 @@
+mpathdz (360060e8006d0c3000000d0c300000035) dm-179 HP,OPEN-V
+size=5.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:7  sdft 130:240 active ready running
+  `- 4:0:4:7  sdps 131:288 active ready running
+mpathbp (3600c0ff00012bcd25b8a904f01000000) dm-117 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:37 sdpc 130:288 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:37 sddi 71:0    active ready running
+mpathak (3600c0ff00012bcd2558a904f06000000) dm-86 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:6  sdnx 128:304 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:6  sdcd 69:16   active ready running
+mpathcu (360060e800561ce00000061ce00000915) dm-57 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:22 sdba 67:64   active ready running
+  `- 4:0:1:22 sdkz 67:368  active ready running
+mpathr (350002ac000451522) dm-23 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:19 sds  65:32   active ready running
+  `- 4:0:0:19 sdjr 65:336  active ready running
+mpathfw (360060e8006d0c3000000d0c30000005e) dm-228 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:56 sdhq 134:0   active ready running
+  `- 4:0:4:56 sdrp 134:304 active ready running
+mpather (360060e8006d0c3000000d0c3000000b6) dm-197 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:25 sdgl 132:16  active ready running
+  `- 4:0:4:25 sdqk 132:320 active ready running
+mpathbc (3600c0ff00012bcd2588a904f05000000) dm-104 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:24 sdop 129:336 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:24 sdcv 70:48   active ready running
+mpathdm (360060e800561ce00000061ce00000927) dm-75 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:40 sdbs 68:96   active ready running
+  `- 4:0:1:40 sdlr 68:400  active ready running
+mpathch (360060e800561ce00000061ce00000908) dm-44 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:9  sdan 66:112  active ready running
+  `- 4:0:1:9  sdkm 66:416  active ready running
+mpathe (350002ac000331522) dm-8 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:1  sda  8:0     active ready running
+  `- 4:0:0:1  sdiz 8:304   active ready running
+mpathgo (360060e8006d0c3000000d0c300000070) dm-246 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:74 sdii 135:32  active ready running
+  `- 4:0:4:74 sdsh 135:336 active ready running
+mpathfj (360060e8006d0c3000000d0c300000010) dm-215 HP,OPEN-V
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:43 sdhd 133:48  active ready running
+  `- 4:0:4:43 sdrc 133:352 active ready running
+mpathee (360060e8006d0c3000000d0c3000000a9) dm-184 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:12 sdfy 131:64  active ready running
+  `- 4:0:4:12 sdpx 131:368 active ready running
+mpathiy (36001438005de88a6000070000cf70000) dm-171 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:47 sdnr 71:464  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:47 sdfl 130:112 active ready running
+mpathht (36001438005de88a6000070000c7f0000) dm-141 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:17 sdmn 69:496  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:17 sdeh 128:144 active ready running
+mpathgb (360060e8006d0c3000000d0c300000063) dm-233 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:61 sdhv 134:80  active ready running
+  `- 4:0:4:61 sdru 134:384 active ready running
+mpathil (36001438005de88a6000070000cbf0000) dm-157 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:33 sdnd 70:496  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:33 sdex 129:144 active ready running
+mpathhg (36001438005de88a6000070000c430000) dm-126 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:2  sdly 69:256  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:2  sdds 71:160  active ready running
+mpathaw (3600c0ff00012bcd2578a904f05000000) dm-98 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:18 sdoj 128:496 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:18 sdcp 69:208  active ready running
+mpathdy (360060e8006d0c3000000d0c300000034) dm-178 HP,OPEN-V
+size=5.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:6  sdfs 130:224 active ready running
+  `- 4:0:4:6  sdpr 131:272 active ready running
+mpathbo (3600c0ff00012bcd25a8a904f05000000) dm-116 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:36 sdpb 130:272 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:36 sddh 70:240  active ready running
+mpathaj (3600c0ff00012bcd2558a904f05000000) dm-85 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:5  sdnw 128:288 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:5  sdcc 69:0    active ready running
+mpathct (360060e800561ce00000061ce00000914) dm-56 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:21 sdaz 67:48   active ready running
+  `- 4:0:1:21 sdky 67:352  active ready running
+mpathq (350002ac000421522) dm-20 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:16 sdp  8:240   active ready running
+  `- 4:0:0:16 sdjo 65:288  active ready running
+mpathfv (360060e8006d0c3000000d0c30000005d) dm-227 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:55 sdhp 133:240 active ready running
+  `- 4:0:4:55 sdro 134:288 active ready running
+mpatheq (360060e8006d0c3000000d0c3000000b5) dm-196 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:24 sdgk 132:0   active ready running
+  `- 4:0:4:24 sdqj 132:304 active ready running
+mpathbb (3600c0ff00012bcd2588a904f04000000) dm-103 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:23 sdoo 129:320 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:23 sdcu 70:32   active ready running
+mpathdl (360060e800561ce00000061ce00000926) dm-74 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:39 sdbr 68:80   active ready running
+  `- 4:0:1:39 sdlq 68:384  active ready running
+mpathcg (360060e800561ce00000061ce00000907) dm-43 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:8  sdam 66:96   active ready running
+  `- 4:0:1:8  sdkl 66:400  active ready running
+mpathd (350002ac000351522) dm-7 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:3  sdc  8:32    active ready running
+  `- 4:0:0:3  sdjb 8:336   active ready running
+mpathgn (360060e8006d0c3000000d0c30000006f) dm-245 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:73 sdih 135:16  active ready running
+  `- 4:0:4:73 sdsg 135:320 active ready running
+mpathfi (360060e8006d0c3000000d0c30000000f) dm-214 HP,OPEN-V
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:42 sdhc 133:32  active ready running
+  `- 4:0:4:42 sdrb 133:336 active ready running
+mpathed (360060e8006d0c3000000d0c3000000a8) dm-183 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:11 sdfx 131:48  active ready running
+  `- 4:0:4:11 sdpw 131:352 active ready running
+mpathix (36001438005de88a6000070000ce70000) dm-167 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:43 sdnn 71:400  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:43 sdfh 130:48  active ready running
+mpathhs (36001438005de88a6000070000c830000) dm-142 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:18 sdmo 70:256  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:18 sdei 128:160 active ready running
+mpathga (360060e8006d0c3000000d0c300000062) dm-232 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:60 sdhu 134:64  active ready running
+  `- 4:0:4:60 sdrt 134:368 active ready running
+mpathik (36001438005de88a6000070000cbb0000) dm-156 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:32 sdnc 70:480  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:32 sdew 129:128 active ready running
+mpathhf (36001438005de88a6000070000c470000) dm-127 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:3  sdlz 69:272  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:3  sddt 71:176  active ready running
+mpathav (3600c0ff00012bcd2578a904f04000000) dm-97 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:17 sdoi 128:480 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:17 sdco 69:192  active ready running
+mpathdx (360060e8006d0c3000000d0c300000033) dm-177 HP,OPEN-V
+size=5.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:5  sdfr 130:208 active ready running
+  `- 4:0:4:5  sdpq 131:256 active ready running
+mpathbn (3600c0ff00012bcd25a8a904f04000000) dm-115 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:35 sdpa 130:256 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:35 sddg 70:224  active ready running
+mpathai (3600c0ff00012bcd2558a904f04000000) dm-84 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:4  sdnv 128:272 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:4  sdcb 68:240  active ready running
+mpathcs (360060e800561ce00000061ce00000913) dm-55 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:20 sday 67:32   active ready running
+  `- 4:0:1:20 sdkx 67:336  active ready running
+mpathp (350002ac000401522) dm-18 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:14 sdn  8:208   active ready running
+  `- 4:0:0:14 sdjm 65:256  active ready running
+mpathgz (360060e8006d0c3000000d0c300000094) dm-257 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:85 sdit 135:208 active ready running
+  `- 4:0:4:85 sdss 8:512   active ready running
+mpathfu (360060e8006d0c3000000d0c30000005c) dm-226 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:54 sdho 133:224 active ready running
+  `- 4:0:4:54 sdrn 134:272 active ready running
+mpathep (360060e8006d0c3000000d0c3000000b4) dm-195 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:23 sdgj 131:240 active ready running
+  `- 4:0:4:23 sdqi 132:288 active ready running
+mpathba (3600c0ff00012bcd2588a904f03000000) dm-102 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:22 sdon 129:304 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:22 sdct 70:16   active ready running
+mpathdk (360060e800561ce00000061ce00000925) dm-73 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:38 sdbq 68:64   active ready running
+  `- 4:0:1:38 sdlp 68:368  active ready running
+mpathcf (360060e800561ce00000061ce00000906) dm-42 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:7  sdal 66:80   active ready running
+  `- 4:0:1:7  sdkk 66:384  active ready running
+mpathc (350002ac000361522) dm-5 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:4  sdd  8:48    active ready running
+  `- 4:0:0:4  sdjc 8:352   active ready running
+mpathgm (360060e8006d0c3000000d0c30000006e) dm-244 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:72 sdig 135:0   active ready running
+  `- 4:0:4:72 sdsf 135:304 active ready running
+mpathfh (360060e8006d0c3000000d0c30000000e) dm-213 HP,OPEN-V
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:41 sdhb 133:16  active ready running
+  `- 4:0:4:41 sdra 133:320 active ready running
+mpathec (360060e8006d0c3000000d0c300000038) dm-182 HP,OPEN-V
+size=5.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:10 sdfw 131:32  active ready running
+  `- 4:0:4:10 sdpv 131:336 active ready running
+mpathiw (36001438005de88a6000070000cc70000) dm-159 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:35 sdnf 71:272  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:35 sdez 129:176 active ready running
+mpathhr (36001438005de88a6000070000c8f0000) dm-145 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:21 sdmr 70:304  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:21 sdel 128:208 active ready running
+mpathhe (360060e8006d0c3000000d0c3000000a2) dm-262 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:90 sdiy 8:288   active ready running
+  `- 4:0:4:90 sdsx 8:592   active ready running
+mpathij (36001438005de88a6000070000ca70000) dm-151 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:27 sdmx 70:400  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:27 sder 129:48  active ready running
+mpathau (3600c0ff00012bcd2578a904f03000000) dm-96 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:16 sdoh 128:464 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:16 sdcn 69:176  active ready running
+mpathbz (360060e800561ce00000061ce00000900) dm-36 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:1  sdaf 65:240  active ready running
+  `- 4:0:1:1  sdke 66:288  active ready running
+mpathdw (360060e8006d0c3000000d0c300000032) dm-176 HP,OPEN-V
+size=5.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:4  sdfq 130:192 active ready running
+  `- 4:0:4:4  sdpp 130:496 active ready running
+mpathbm (3600c0ff00012bcd25a8a904f03000000) dm-114 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:34 sdoz 129:496 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:34 sddf 70:208  active ready running
+mpathah (3600c0ff00012bcd2558a904f03000000) dm-83 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:3  sdnu 128:256 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:3  sdca 68:224  active ready running
+mpathcr (360060e800561ce00000061ce00000912) dm-54 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:19 sdax 67:16   active ready running
+  `- 4:0:1:19 sdkw 67:320  active ready running
+mpatho (350002ac0003f1522) dm-17 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:13 sdm  8:192   active ready running
+  `- 4:0:0:13 sdjl 8:496   active ready running
+mpathgy (360060e8006d0c3000000d0c30000007f) dm-256 HP,OPEN-V
+size=5.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:84 sdis 135:192 active ready running
+  `- 4:0:4:84 sdsr 135:496 active ready running
+mpathft (360060e8006d0c3000000d0c30000005b) dm-225 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:53 sdhn 133:208 active ready running
+  `- 4:0:4:53 sdrm 134:256 active ready running
+mpatheo (360060e8006d0c3000000d0c3000000b3) dm-194 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:22 sdgi 131:224 active ready running
+  `- 4:0:4:22 sdqh 132:272 active ready running
+mpathdj (360060e800561ce00000061ce00000924) dm-72 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:37 sdbp 68:48   active ready running
+  `- 4:0:1:37 sdlo 68:352  active ready running
+mpathce (360060e800561ce00000061ce00000905) dm-41 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:6  sdak 66:64   active ready running
+  `- 4:0:1:6  sdkj 66:368  active ready running
+mpathb (350002ac000341522) dm-6 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:2  sdb  8:16    active ready running
+  `- 4:0:0:2  sdja 8:320   active ready running
+mpathgl (360060e8006d0c3000000d0c30000006d) dm-243 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:71 sdif 134:240 active ready running
+  `- 4:0:4:71 sdse 135:288 active ready running
+mpathfg (360060e8006d0c3000000d0c30000000d) dm-212 HP,OPEN-V
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:40 sdha 133:0   active ready running
+  `- 4:0:4:40 sdqz 133:304 active ready running
+mpatheb (360060e8006d0c3000000d0c300000037) dm-181 HP,OPEN-V
+size=5.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:9  sdfv 131:16  active ready running
+  `- 4:0:4:9  sdpu 131:320 active ready running
+mpathiv (36001438005de88a6000070000ccf0000) dm-161 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:37 sdnh 71:304  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:37 sdfb 129:208 active ready running
+mpathhq (36001438005de88a6000070000c5b0000) dm-132 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:8  sdme 69:352  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:8  sddy 128:0   active ready running
+mpathhd (360060e8006d0c3000000d0c300000098) dm-261 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:89 sdix 8:272   active ready running
+  `- 4:0:4:89 sdsw 8:576   active ready running
+mpathii (36001438005de88a6000070000ccb0000) dm-160 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:36 sdng 71:288  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:36 sdfa 129:192 active ready running
+mpathat (3600c0ff00012bcd2578a904f02000000) dm-95 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:15 sdog 128:448 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:15 sdcm 69:160  active ready running
+mpathby (360060e800561ce00000061ce00000600) dm-35 HP,OPEN-V
+size=35G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:0  sdae 65:224  active ready running
+  `- 4:0:1:0  sdkd 66:272  active ready running
+mpathdv (360060e8006d0c3000000d0c300000031) dm-175 HP,OPEN-V
+size=5.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:3  sdfp 130:176 active ready running
+  `- 4:0:4:3  sdpo 130:480 active ready running
+mpathbl (3600c0ff00012bcd25a8a904f02000000) dm-113 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:33 sdoy 129:480 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:33 sdde 70:192  active ready running
+mpathag (3600c0ff00012bcd2558a904f02000000) dm-82 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:2  sdnt 71:496  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:2  sdbz 68:208  active ready running
+mpathcq (360060e800561ce00000061ce00000911) dm-53 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:18 sdaw 67:0    active ready running
+  `- 4:0:1:18 sdkv 67:304  active ready running
+mpathn (350002ac000431522) dm-21 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:17 sdq  65:0    active ready running
+  `- 4:0:0:17 sdjp 65:304  active ready running
+mpathgx (360060e8006d0c3000000d0c30000007e) dm-255 HP,OPEN-V
+size=5.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:83 sdir 135:176 active ready running
+  `- 4:0:4:83 sdsq 135:480 active ready running
+mpathfs (360060e8006d0c3000000d0c30000005a) dm-224 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:52 sdhm 133:192 active ready running
+  `- 4:0:4:52 sdrl 133:496 active ready running
+mpathen (360060e8006d0c3000000d0c3000000b2) dm-193 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:21 sdgh 131:208 active ready running
+  `- 4:0:4:21 sdqg 132:256 active ready running
+mpathdi (360060e800561ce00000061ce00000923) dm-71 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:36 sdbo 68:32   active ready running
+  `- 4:0:1:36 sdln 68:336  active ready running
+mpathcd (360060e800561ce00000061ce00000904) dm-40 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:5  sdaj 66:48   active ready running
+  `- 4:0:1:5  sdki 66:352  active ready running
+mpatha (36001438005de88a6000070000c360000) dm-0 HP,HSV400
+size=30G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 3:0:3:1  sddr 71:144  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 4:0:2:1  sdlx 68:496  active ready running
+mpathgk (360060e8006d0c3000000d0c30000006c) dm-242 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:70 sdie 134:224 active ready running
+  `- 4:0:4:70 sdsd 135:272 active ready running
+mpathff (360060e8006d0c3000000d0c30000000c) dm-211 HP,OPEN-V
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:39 sdgz 132:240 active ready running
+  `- 4:0:4:39 sdqy 133:288 active ready running
+mpathea (360060e8006d0c3000000d0c300000036) dm-180 HP,OPEN-V
+size=5.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:8  sdfu 131:0   active ready running
+  `- 4:0:4:8  sdpt 131:304 active ready running
+mpathiu (36001438005de88a6000070000cef0000) dm-169 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:45 sdnp 71:432  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:45 sdfj 130:80  active ready running
+mpathhp (36001438005de88a6000070000c4b0000) dm-128 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:4  sdma 69:288  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:4  sddu 71:192  active ready running
+mpathhc (360060e8006d0c3000000d0c300000097) dm-260 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:88 sdiw 8:256   active ready running
+  `- 4:0:4:88 sdsv 8:560   active ready running
+mpathih (36001438005de88a6000070000ce30000) dm-166 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:42 sdnm 71:384  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:42 sdfg 130:32  active ready running
+mpathbx (3600c0ff00012bcd25c8a904f03000000) dm-125 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:45 sdpk 130:416 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:45 sddq 71:128  active ready running
+mpathas (3600c0ff00012bcd2578a904f01000000) dm-94 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:14 sdof 128:432 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:14 sdcl 69:144  active ready running
+mpathz (350002ac0004d1522) dm-30 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:27 sdaa 65:160  active ready running
+  `- 4:0:0:27 sdjz 65:464  active ready running
+mpathez (360060e8006d0c3000000d0c3000000be) dm-205 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:33 sdgt 132:144 active ready running
+  `- 4:0:4:33 sdqs 132:448 active ready running
+mpathdu (360060e8006d0c3000000d0c300000030) dm-174 HP,OPEN-V
+size=5.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:2  sdfo 130:160 active ready running
+  `- 4:0:4:2  sdpn 130:464 active ready running
+mpathbk (3600c0ff00012bcd25a8a904f01000000) dm-112 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:32 sdox 129:464 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:32 sddd 70:176  active ready running
+mpathaf (3600c0ff00012bcd2558a904f01000000) dm-81 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:1  sdns 71:480  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:1  sdby 68:192  active ready running
+mpathcp (360060e800561ce00000061ce00000910) dm-52 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:17 sdav 66:240  active ready running
+  `- 4:0:1:17 sdku 67:288  active ready running
+mpathm (350002ac0003e1522) dm-16 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:12 sdl  8:176   active ready running
+  `- 4:0:0:12 sdjk 8:480   active ready running
+mpathgw (360060e8006d0c3000000d0c30000007d) dm-254 HP,OPEN-V
+size=5.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:82 sdiq 135:160 active ready running
+  `- 4:0:4:82 sdsp 135:464 active ready running
+mpathfr (360060e8006d0c3000000d0c300000059) dm-223 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:51 sdhl 133:176 active ready running
+  `- 4:0:4:51 sdrk 133:480 active ready running
+mpathem (360060e8006d0c3000000d0c3000000b1) dm-192 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:20 sdgg 131:192 active ready running
+  `- 4:0:4:20 sdqf 131:496 active ready running
+mpathdh (360060e800561ce00000061ce00000922) dm-70 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:35 sdbn 68:16   active ready running
+  `- 4:0:1:35 sdlm 68:320  active ready running
+mpathcc (360060e800561ce00000061ce00000903) dm-39 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:4  sdai 66:32   active ready running
+  `- 4:0:1:4  sdkh 66:336  active ready running
+mpathgj (360060e8006d0c3000000d0c30000006b) dm-241 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:69 sdid 134:208 active ready running
+  `- 4:0:4:69 sdsc 135:256 active ready running
+mpathfe (360060e8006d0c3000000d0c30000000b) dm-210 HP,OPEN-V
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:38 sdgy 132:224 active ready running
+  `- 4:0:4:38 sdqx 133:272 active ready running
+mpathit (36001438005de88a6000070000cf30000) dm-170 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:46 sdnq 71:448  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:46 sdfk 130:96  active ready running
+mpathho (36001438005de88a6000070000c5f0000) dm-133 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:9  sdmf 69:368  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:9  sddz 128:16  active ready running
+mpathhb (360060e8006d0c3000000d0c300000096) dm-259 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:87 sdiv 135:240 active ready running
+  `- 4:0:4:87 sdsu 8:544   active ready running
+mpathig (36001438005de88a6000070000c9b0000) dm-148 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:24 sdmu 70:352  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:24 sdeo 129:0   active ready running
+mpathbw (3600c0ff00012bcd25c8a904f02000000) dm-124 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:44 sdpj 130:400 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:44 sddp 71:112  active ready running
+mpathar (3600c0ff00012bcd2568a904f06000000) dm-93 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:13 sdoe 128:416 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:13 sdck 69:128  active ready running
+mpathy (350002ac000481522) dm-26 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:22 sdv  65:80   active ready running
+  `- 4:0:0:22 sdju 65:384  active ready running
+mpathey (360060e8006d0c3000000d0c3000000bd) dm-204 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:32 sdgs 132:128 active ready running
+  `- 4:0:4:32 sdqr 132:432 active ready running
+mpathdt (360060e8006d0c3000000d0c30000002f) dm-173 HP,OPEN-V
+size=5.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:1  sdfn 130:144 active ready running
+  `- 4:0:4:1  sdpm 130:448 active ready running
+mpathbj (3600c0ff00012bcd2598a904f06000000) dm-111 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:31 sdow 129:448 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:31 sddc 70:160  active ready running
+mpathco (360060e800561ce00000061ce0000090f) dm-51 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:16 sdau 66:224  active ready running
+  `- 4:0:1:16 sdkt 67:272  active ready running
+mpathae (350002ac000501522) dm-33 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:30 sdad 65:208  active ready running
+  `- 4:0:0:30 sdkc 66:256  active ready running
+mpathl (350002ac0003d1522) dm-14 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:11 sdk  8:160   active ready running
+  `- 4:0:0:11 sdjj 8:464   active ready running
+mpathgv (360060e8006d0c3000000d0c30000007c) dm-253 HP,OPEN-V
+size=5.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:81 sdip 135:144 active ready running
+  `- 4:0:4:81 sdso 135:448 active ready running
+mpathfq (360060e8006d0c3000000d0c300000058) dm-222 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:50 sdhk 133:160 active ready running
+  `- 4:0:4:50 sdrj 133:464 active ready running
+mpathel (360060e8006d0c3000000d0c3000000b0) dm-191 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:19 sdgf 131:176 active ready running
+  `- 4:0:4:19 sdqe 131:480 active ready running
+mpathdg (360060e800561ce00000061ce00000921) dm-69 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:34 sdbm 68:0    active ready running
+  `- 4:0:1:34 sdll 68:304  active ready running
+mpathcb (360060e800561ce00000061ce00000902) dm-38 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:3  sdah 66:16   active ready running
+  `- 4:0:1:3  sdkg 66:320  active ready running
+mpathgi (360060e8006d0c3000000d0c30000006a) dm-240 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:68 sdic 134:192 active ready running
+  `- 4:0:4:68 sdsb 134:496 active ready running
+mpathfd (360060e8006d0c3000000d0c30000000a) dm-209 HP,OPEN-V
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:37 sdgx 132:208 active ready running
+  `- 4:0:4:37 sdqw 133:256 active ready running
+mpathis (36001438005de88a6000070000cd30000) dm-162 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:38 sdni 71:320  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:38 sdfc 129:224 active ready running
+mpathhn (36001438005de88a6000070000c630000) dm-134 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:10 sdmg 69:384  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:10 sdea 128:32  active ready running
+mpathha (360060e8006d0c3000000d0c300000095) dm-258 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:86 sdiu 135:224 active ready running
+  `- 4:0:4:86 sdst 8:528   active ready running
+mpathif (36001438005de88a6000070000c9f0000) dm-149 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:25 sdmv 70:368  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:25 sdep 129:16  active ready running
+mpathbv (3600c0ff00012bcd25c8a904f01000000) dm-123 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:43 sdpi 130:384 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:43 sddo 71:96   active ready running
+mpathaq (3600c0ff00012bcd2568a904f05000000) dm-92 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:12 sdod 128:400 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:12 sdcj 69:112  active ready running
+mpathx (350002ac0004a1522) dm-27 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:24 sdx  65:112  active ready running
+  `- 4:0:0:24 sdjw 65:416  active ready running
+mpathex (360060e8006d0c3000000d0c3000000bc) dm-203 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:31 sdgr 132:112 active ready running
+  `- 4:0:4:31 sdqq 132:416 active ready running
+mpathds (360060e8006d0c3000000d0c300000004) dm-172 HP,OPEN-V
+size=35G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:0  sdfm 130:128 active ready running
+  `- 4:0:4:0  sdpl 130:432 active ready running
+mpathbi (3600c0ff00012bcd2598a904f05000000) dm-110 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:30 sdov 129:432 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:30 sddb 70:144  active ready running
+mpathcn (360060e800561ce00000061ce0000090e) dm-50 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:15 sdat 66:208  active ready running
+  `- 4:0:1:15 sdks 67:256  active ready running
+mpathad (350002ac0004f1522) dm-34 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:29 sdac 65:192  active ready running
+  `- 4:0:0:29 sdkb 65:496  active ready running
+mpathk (350002ac0003c1522) dm-15 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:10 sdj  8:144   active ready running
+  `- 4:0:0:10 sdji 8:448   active ready running
+mpathgu (360060e8006d0c3000000d0c300000076) dm-252 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:80 sdio 135:128 active ready running
+  `- 4:0:4:80 sdsn 135:432 active ready running
+mpathfp (360060e8006d0c3000000d0c300000057) dm-221 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:49 sdhj 133:144 active ready running
+  `- 4:0:4:49 sdri 133:448 active ready running
+mpathek (360060e8006d0c3000000d0c3000000af) dm-190 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:18 sdge 131:160 active ready running
+  `- 4:0:4:18 sdqd 131:464 active ready running
+mpathhz (36001438005de88a6000070000cd70000) dm-163 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:39 sdnj 71:336  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:39 sdfd 129:240 active ready running
+mpathdf (360060e800561ce00000061ce00000920) dm-68 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:33 sdbl 67:240  active ready running
+  `- 4:0:1:33 sdlk 68:288  active ready running
+mpathca (360060e800561ce00000061ce00000901) dm-37 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:2  sdag 66:0    active ready running
+  `- 4:0:1:2  sdkf 66:304  active ready running
+mpathgh (360060e8006d0c3000000d0c300000069) dm-239 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:67 sdib 134:176 active ready running
+  `- 4:0:4:67 sdsa 134:480 active ready running
+mpathfc (360060e8006d0c3000000d0c300000009) dm-208 HP,OPEN-V
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:36 sdgw 132:192 active ready running
+  `- 4:0:4:36 sdqv 132:496 active ready running
+mpathir (36001438005de88a6000070000cc30000) dm-158 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:34 sdne 71:256  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:34 sdey 129:160 active ready running
+mpathhm (36001438005de88a6000070000c7b0000) dm-140 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:16 sdmm 69:480  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:16 sdeg 128:128 active ready running
+mpathie (36001438005de88a6000070000c970000) dm-147 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:23 sdmt 70:336  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:23 sden 128:240 active ready running
+mpathbu (3600c0ff00012bcd25b8a904f06000000) dm-122 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:42 sdph 130:368 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:42 sddn 71:80   active ready running
+mpathap (3600c0ff00012bcd2568a904f04000000) dm-91 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:11 sdoc 128:384 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:11 sdci 69:96   active ready running
+mpathcz (360060e800561ce00000061ce0000091a) dm-62 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:27 sdbf 67:144  active ready running
+  `- 4:0:1:27 sdle 67:448  active ready running
+mpathw (350002ac000491522) dm-28 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:23 sdw  65:96   active ready running
+  `- 4:0:0:23 sdjv 65:400  active ready running
+mpathew (360060e8006d0c3000000d0c3000000bb) dm-202 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:30 sdgq 132:96  active ready running
+  `- 4:0:4:30 sdqp 132:400 active ready running
+mpathbh (3600c0ff00012bcd2598a904f04000000) dm-109 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:29 sdou 129:416 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:29 sdda 70:128  active ready running
+mpathdr (360060e800561ce00000061ce00000931) dm-80 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:45 sdbx 68:176  active ready running
+  `- 4:0:1:45 sdlw 68:480  active ready running
+mpathcm (360060e800561ce00000061ce0000090d) dm-49 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:14 sdas 66:192  active ready running
+  `- 4:0:1:14 sdkr 66:496  active ready running
+mpathac (350002ac0004e1522) dm-32 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:28 sdab 65:176  active ready running
+  `- 4:0:0:28 sdka 65:480  active ready running
+mpathj (350002ac0003b1522) dm-12 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:9  sdi  8:128   active ready running
+  `- 4:0:0:9  sdjh 8:432   active ready running
+mpathgt (360060e8006d0c3000000d0c300000075) dm-251 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:79 sdin 135:112 active ready running
+  `- 4:0:4:79 sdsm 135:416 active ready running
+mpathfo (360060e8006d0c3000000d0c300000056) dm-220 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:48 sdhi 133:128 active ready running
+  `- 4:0:4:48 sdrh 133:432 active ready running
+mpathej (360060e8006d0c3000000d0c3000000ae) dm-189 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:17 sdgd 131:144 active ready running
+  `- 4:0:4:17 sdqc 131:448 active ready running
+mpathhy (36001438005de88a6000070000cb30000) dm-154 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:30 sdna 70:448  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:30 sdeu 129:96  active ready running
+mpathde (360060e800561ce00000061ce0000091f) dm-67 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:32 sdbk 67:224  active ready running
+  `- 4:0:1:32 sdlj 68:272  active ready running
+mpathgg (360060e8006d0c3000000d0c300000068) dm-238 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:66 sdia 134:160 active ready running
+  `- 4:0:4:66 sdrz 134:464 active ready running
+mpathfb (360060e8006d0c3000000d0c300000008) dm-207 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:35 sdgv 132:176 active ready running
+  `- 4:0:4:35 sdqu 132:480 active ready running
+mpathiq (36001438005de88a6000070000cdb0000) dm-164 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:40 sdnk 71:352  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:40 sdfe 130:0   active ready running
+mpathhl (36001438005de88a6000070000c6b0000) dm-136 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:12 sdmi 69:416  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:12 sdec 128:64  active ready running
+mpathid (36001438005de88a6000070000c730000) dm-138 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:14 sdmk 69:448  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:14 sdee 128:96  active ready running
+mpathbt (3600c0ff00012bcd25b8a904f05000000) dm-121 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:41 sdpg 130:352 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:41 sddm 71:64   active ready running
+mpathao (3600c0ff00012bcd2568a904f03000000) dm-90 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:10 sdob 128:368 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:10 sdch 69:80   active ready running
+mpathcy (360060e800561ce00000061ce00000919) dm-61 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:26 sdbe 67:128  active ready running
+  `- 4:0:1:26 sdld 67:432  active ready running
+mpathv (350002ac000471522) dm-25 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:21 sdu  65:64   active ready running
+  `- 4:0:0:21 sdjt 65:368  active ready running
+mpathev (360060e8006d0c3000000d0c3000000ba) dm-201 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:29 sdgp 132:80  active ready running
+  `- 4:0:4:29 sdqo 132:384 active ready running
+mpathbg (3600c0ff00012bcd2598a904f03000000) dm-108 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:28 sdot 129:400 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:28 sdcz 70:112  active ready running
+mpathdq (360060e800561ce00000061ce00000930) dm-79 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:44 sdbw 68:160  active ready running
+  `- 4:0:1:44 sdlv 68:464  active ready running
+mpathcl (360060e800561ce00000061ce0000090c) dm-48 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:13 sdar 66:176  active ready running
+  `- 4:0:1:13 sdkq 66:480  active ready running
+mpathab (350002ac0004b1522) dm-29 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:25 sdy  65:128  active ready running
+  `- 4:0:0:25 sdjx 65:432  active ready running
+mpathi (350002ac000391522) dm-11 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:7  sdg  8:96    active ready running
+  `- 4:0:0:7  sdjf 8:400   active ready running
+mpathgs (360060e8006d0c3000000d0c300000074) dm-250 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:78 sdim 135:96  active ready running
+  `- 4:0:4:78 sdsl 135:400 active ready running
+mpathfn (360060e8006d0c3000000d0c300000055) dm-219 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:47 sdhh 133:112 active ready running
+  `- 4:0:4:47 sdrg 133:416 active ready running
+mpathei (360060e8006d0c3000000d0c3000000ad) dm-188 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:16 sdgc 131:128 active ready running
+  `- 4:0:4:16 sdqb 131:432 active ready running
+mpathhx (36001438005de88a6000070000cb70000) dm-155 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:31 sdnb 70:464  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:31 sdev 129:112 active ready running
+mpathdd (360060e800561ce00000061ce0000091e) dm-65 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:31 sdbj 67:208  active ready running
+  `- 4:0:1:31 sdli 68:256  active ready running
+mpathgf (360060e8006d0c3000000d0c300000067) dm-237 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:65 sdhz 134:144 active ready running
+  `- 4:0:4:65 sdry 134:448 active ready running
+mpathfa (360060e8006d0c3000000d0c300000007) dm-206 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:34 sdgu 132:160 active ready running
+  `- 4:0:4:34 sdqt 132:464 active ready running
+mpathip (36001438005de88a6000070000ca30000) dm-150 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:26 sdmw 70:384  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:26 sdeq 129:32  active ready running
+mpathhk (36001438005de88a6000070000c530000) dm-130 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:6  sdmc 69:320  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:6  sddw 71:224  active ready running
+mpathic (36001438005de88a6000070000c930000) dm-146 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:22 sdms 70:320  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:22 sdem 128:224 active ready running
+mpathbs (3600c0ff00012bcd25b8a904f04000000) dm-120 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:40 sdpf 130:336 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:40 sddl 71:48   active ready running
+mpathan (3600c0ff00012bcd2568a904f02000000) dm-89 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:9  sdoa 128:352 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:9  sdcg 69:64   active ready running
+mpathcx (360060e800561ce00000061ce00000918) dm-60 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:25 sdbd 67:112  active ready running
+  `- 4:0:1:25 sdlc 67:416  active ready running
+mpathu (350002ac000441522) dm-22 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:18 sdr  65:16   active ready running
+  `- 4:0:0:18 sdjq 65:320  active ready running
+mpathfz (360060e8006d0c3000000d0c300000061) dm-231 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:59 sdht 134:48  active ready running
+  `- 4:0:4:59 sdrs 134:352 active ready running
+mpatheu (360060e8006d0c3000000d0c3000000b9) dm-200 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:28 sdgo 132:64  active ready running
+  `- 4:0:4:28 sdqn 132:368 active ready running
+mpathbf (3600c0ff00012bcd2598a904f02000000) dm-107 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:27 sdos 129:384 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:27 sdcy 70:96   active ready running
+mpathdp (360060e800561ce00000061ce0000092f) dm-78 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:43 sdbv 68:144  active ready running
+  `- 4:0:1:43 sdlu 68:448  active ready running
+mpathck (360060e800561ce00000061ce0000090b) dm-47 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:12 sdaq 66:160  active ready running
+  `- 4:0:1:12 sdkp 66:464  active ready running
+mpathaa (350002ac0004c1522) dm-31 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:26 sdz  65:144  active ready running
+  `- 4:0:0:26 sdjy 65:448  active ready running
+mpathh (350002ac0003a1522) dm-13 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:8  sdh  8:112   active ready running
+  `- 4:0:0:8  sdjg 8:416   active ready running
+mpathgr (360060e8006d0c3000000d0c300000073) dm-249 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:77 sdil 135:80  active ready running
+  `- 4:0:4:77 sdsk 135:384 active ready running
+mpathfm (360060e8006d0c3000000d0c300000040) dm-218 HP,OPEN-V
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:46 sdhg 133:96  active ready running
+  `- 4:0:4:46 sdrf 133:400 active ready running
+mpatheh (360060e8006d0c3000000d0c3000000ac) dm-187 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:15 sdgb 131:112 active ready running
+  `- 4:0:4:15 sdqa 131:416 active ready running
+mpathhw (36001438005de88a6000070000c8b0000) dm-144 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:20 sdmq 70:288  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:20 sdek 128:192 active ready running
+mpathdc (360060e800561ce00000061ce0000091d) dm-66 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:30 sdbi 67:192  active ready running
+  `- 4:0:1:30 sdlh 67:496  active ready running
+mpathge (360060e8006d0c3000000d0c300000066) dm-236 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:64 sdhy 134:128 active ready running
+  `- 4:0:4:64 sdrx 134:432 active ready running
+mpathio (36001438005de88a6000070000cdf0000) dm-165 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:41 sdnl 71:368  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:41 sdff 130:16  active ready running
+mpathhj (36001438005de88a6000070000c4f0000) dm-129 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:5  sdmb 69:304  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:5  sddv 71:208  active ready running
+mpathib (36001438005de88a6000070000caf0000) dm-153 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:29 sdmz 70:432  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:29 sdet 129:80  active ready running
+mpathaz (3600c0ff00012bcd2588a904f02000000) dm-101 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:21 sdom 129:288 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:21 sdcs 70:0    active ready running
+mpathbr (3600c0ff00012bcd25b8a904f03000000) dm-119 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:39 sdpe 130:320 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:39 sddk 71:32   active ready running
+mpatham (3600c0ff00012bcd2568a904f01000000) dm-88 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:8  sdnz 128:336 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:8  sdcf 69:48   active ready running
+mpathcw (360060e800561ce00000061ce00000917) dm-59 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:24 sdbc 67:96   active ready running
+  `- 4:0:1:24 sdlb 67:400  active ready running
+mpatht (350002ac000461522) dm-24 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:20 sdt  65:48   active ready running
+  `- 4:0:0:20 sdjs 65:352  active ready running
+mpathfy (360060e8006d0c3000000d0c300000060) dm-230 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:58 sdhs 134:32  active ready running
+  `- 4:0:4:58 sdrr 134:336 active ready running
+mpathet (360060e8006d0c3000000d0c3000000b8) dm-199 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:27 sdgn 132:48  active ready running
+  `- 4:0:4:27 sdqm 132:352 active ready running
+mpathbe (3600c0ff00012bcd2598a904f01000000) dm-106 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:26 sdor 129:368 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:26 sdcx 70:80   active ready running
+mpathdo (360060e800561ce00000061ce0000092e) dm-77 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:42 sdbu 68:128  active ready running
+  `- 4:0:1:42 sdlt 68:432  active ready running
+mpathcj (360060e800561ce00000061ce0000090a) dm-46 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:11 sdap 66:144  active ready running
+  `- 4:0:1:11 sdko 66:448  active ready running
+mpathg (350002ac000381522) dm-9 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:6  sdf  8:80    active ready running
+  `- 4:0:0:6  sdje 8:384   active ready running
+mpathgq (360060e8006d0c3000000d0c300000072) dm-248 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:76 sdik 135:64  active ready running
+  `- 4:0:4:76 sdsj 135:368 active ready running
+mpathfl (360060e8006d0c3000000d0c30000003f) dm-217 HP,OPEN-V
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:45 sdhf 133:80  active ready running
+  `- 4:0:4:45 sdre 133:384 active ready running
+mpatheg (360060e8006d0c3000000d0c3000000ab) dm-186 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:14 sdga 131:96  active ready running
+  `- 4:0:4:14 sdpz 131:400 active ready running
+mpathhv (36001438005de88a6000070000c870000) dm-143 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:19 sdmp 70:272  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:19 sdej 128:176 active ready running
+mpathdb (360060e800561ce00000061ce0000091c) dm-64 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:29 sdbh 67:176  active ready running
+  `- 4:0:1:29 sdlg 67:480  active ready running
+mpathgd (360060e8006d0c3000000d0c300000065) dm-235 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:63 sdhx 134:112 active ready running
+  `- 4:0:4:63 sdrw 134:416 active ready running
+mpathin (36001438005de88a6000070000ceb0000) dm-168 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:44 sdno 71:416  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:44 sdfi 130:64  active ready running
+mpathhi (36001438005de88a6000070000c6f0000) dm-137 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:13 sdmj 69:432  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:13 sded 128:80  active ready running
+mpathia (36001438005de88a6000070000c770000) dm-139 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:15 sdml 69:464  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:15 sdef 128:112 active ready running
+mpathay (3600c0ff00012bcd2588a904f01000000) dm-100 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:20 sdol 129:272 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:20 sdcr 69:240  active ready running
+mpathbq (3600c0ff00012bcd25b8a904f02000000) dm-118 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:38 sdpd 130:304 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:38 sddj 71:16   active ready running
+mpathal (3600c0ff00012bcd2558a904f07000000) dm-87 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:7  sdny 128:320 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:7  sdce 69:32   active ready running
+mpathcv (360060e800561ce00000061ce00000916) dm-58 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:23 sdbb 67:80   active ready running
+  `- 4:0:1:23 sdla 67:384  active ready running
+mpaths (350002ac000411522) dm-19 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:15 sdo  8:224   active ready running
+  `- 4:0:0:15 sdjn 65:272  active ready running
+mpathfx (360060e8006d0c3000000d0c30000005f) dm-229 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:57 sdhr 134:16  active ready running
+  `- 4:0:4:57 sdrq 134:320 active ready running
+mpathes (360060e8006d0c3000000d0c3000000b7) dm-198 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:26 sdgm 132:32  active ready running
+  `- 4:0:4:26 sdql 132:336 active ready running
+mpathbd (3600c0ff00012bcd2588a904f06000000) dm-105 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:25 sdoq 129:352 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:25 sdcw 70:64   active ready running
+mpathdn (360060e800561ce00000061ce0000092d) dm-76 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:41 sdbt 68:112  active ready running
+  `- 4:0:1:41 sdls 68:416  active ready running
+mpathci (360060e800561ce00000061ce00000909) dm-45 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:10 sdao 66:128  active ready running
+  `- 4:0:1:10 sdkn 66:432  active ready running
+mpathf (350002ac000371522) dm-10 3PARdata,VV
+size=2.0G features='0' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:0:5  sde  8:64    active ready running
+  `- 4:0:0:5  sdjd 8:368   active ready running
+mpathgp (360060e8006d0c3000000d0c300000071) dm-247 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:75 sdij 135:48  active ready running
+  `- 4:0:4:75 sdsi 135:352 active ready running
+mpathfk (360060e8006d0c3000000d0c30000003e) dm-216 HP,OPEN-V
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:44 sdhe 133:64  active ready running
+  `- 4:0:4:44 sdrd 133:368 active ready running
+mpathef (360060e8006d0c3000000d0c3000000aa) dm-185 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:13 sdfz 131:80  active ready running
+  `- 4:0:4:13 sdpy 131:384 active ready running
+mpathhu (36001438005de88a6000070000c670000) dm-135 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:11 sdmh 69:400  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:11 sdeb 128:48  active ready running
+mpathda (360060e800561ce00000061ce0000091b) dm-63 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:1:28 sdbg 67:160  active ready running
+  `- 4:0:1:28 sdlf 67:464  active ready running
+mpathgc (360060e8006d0c3000000d0c300000064) dm-234 HP,OPEN-V
+size=1.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+`-+- policy='round-robin 0' prio=1 status=active
+  |- 3:0:4:62 sdhw 134:96  active ready running
+  `- 4:0:4:62 sdrv 134:400 active ready running
+mpathim (36001438005de88a6000070000cab0000) dm-152 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:28 sdmy 70:416  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:28 sdes 129:64  active ready running
+mpathhh (36001438005de88a6000070000c570000) dm-131 HP,HSV400
+size=2.0G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:2:7  sdmd 69:336  active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:3:7  sddx 71:240  active ready running
+mpathax (3600c0ff00012bcd2578a904f06000000) dm-99 HP,P2000G3 FC/iSCSI
+size=1.9G features='1 queue_if_no_path' hwhandler='0' wp=rw
+|-+- policy='round-robin 0' prio=50 status=active
+| `- 4:0:3:19 sdok 129:256 active ready running
+`-+- policy='round-robin 0' prio=10 status=enabled
+  `- 3:0:2:19 sdcq 69:224  active ready running

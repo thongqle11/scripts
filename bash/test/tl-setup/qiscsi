@@ -1,0 +1,9 @@
+if [ "$#" = "0" ]; then
+        cat /sys/class/iscsi_host/host*/initiatorname
+        cat /sys/class/iscsi_host/host*/ipaddress
+        cat /sys/class/iscsi_host/host*/hwaddress
+else
+        cat /sys/class/iscsi_host/host$1/initiatorname
+        cat /sys/class/iscsi_host/host$1/ipaddress
+        cat /sys/class/iscsi_host/host$1/hwaddress
+fi

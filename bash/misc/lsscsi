@@ -1,0 +1,403 @@
+[0:0:0:1]    disk    3PARdata VV               3112  /dev/sda
+[0:0:0:2]    disk    3PARdata VV               3112  /dev/sdb
+[0:0:0:3]    disk    3PARdata VV               3112  /dev/sdc
+[0:0:0:4]    disk    3PARdata VV               3112  /dev/sdd
+[0:0:0:5]    disk    3PARdata VV               3112  /dev/sde
+[0:0:0:6]    disk    3PARdata VV               3112  /dev/sdf
+[0:0:0:7]    disk    3PARdata VV               3112  /dev/sdg
+[0:0:0:8]    disk    3PARdata VV               3112  /dev/sdh
+[0:0:0:9]    disk    3PARdata VV               3112  /dev/sdi
+[0:0:0:10]   disk    3PARdata VV               3112  /dev/sdj
+[0:0:0:11]   disk    3PARdata VV               3112  /dev/sdk
+[0:0:0:12]   disk    3PARdata VV               3112  /dev/sdl
+[0:0:0:13]   disk    3PARdata VV               3112  /dev/sdm
+[0:0:0:14]   disk    3PARdata VV               3112  /dev/sdn
+[0:0:0:15]   disk    3PARdata VV               3112  /dev/sdo
+[0:0:0:16]   disk    3PARdata VV               3112  /dev/sdp
+[0:0:0:17]   disk    3PARdata VV               3112  /dev/sdq
+[0:0:0:18]   disk    3PARdata VV               3112  /dev/sdr
+[0:0:0:19]   disk    3PARdata VV               3112  /dev/sds
+[0:0:0:20]   disk    3PARdata VV               3112  /dev/sdt
+[0:0:0:21]   disk    3PARdata VV               3112  /dev/sdu
+[0:0:0:22]   disk    3PARdata VV               3112  /dev/sdv
+[0:0:0:23]   disk    3PARdata VV               3112  /dev/sdw
+[0:0:0:24]   disk    3PARdata VV               3112  /dev/sdx
+[0:0:0:25]   disk    3PARdata VV               3112  /dev/sdy
+[0:0:0:26]   disk    3PARdata VV               3112  /dev/sdz
+[0:0:0:27]   disk    3PARdata VV               3112  /dev/sdaa
+[0:0:0:28]   disk    3PARdata VV               3112  /dev/sdab
+[0:0:0:29]   disk    3PARdata VV               3112  /dev/sdac
+[0:0:0:30]   disk    3PARdata VV               3112  /dev/sdad
+[0:0:0:254]  enclosu 3PARdata SES              3112  -       
+[0:0:1:0]    disk    HP       OPEN-V           6008  /dev/sdae
+[0:0:1:1]    disk    HP       OPEN-V           6008  /dev/sdaf
+[0:0:1:2]    disk    HP       OPEN-V           6008  /dev/sdag
+[0:0:1:3]    disk    HP       OPEN-V           6008  /dev/sdah
+[0:0:1:4]    disk    HP       OPEN-V           6008  /dev/sdai
+[0:0:1:5]    disk    HP       OPEN-V           6008  /dev/sdaj
+[0:0:1:6]    disk    HP       OPEN-V           6008  /dev/sdak
+[0:0:1:7]    disk    HP       OPEN-V           6008  /dev/sdal
+[0:0:1:8]    disk    HP       OPEN-V           6008  /dev/sdam
+[0:0:1:9]    disk    HP       OPEN-V           6008  /dev/sdan
+[0:0:1:10]   disk    HP       OPEN-V           6008  /dev/sdao
+[0:0:1:11]   disk    HP       OPEN-V           6008  /dev/sdap
+[0:0:1:12]   disk    HP       OPEN-V           6008  /dev/sdaq
+[0:0:1:13]   disk    HP       OPEN-V           6008  /dev/sdar
+[0:0:1:14]   disk    HP       OPEN-V           6008  /dev/sdas
+[0:0:1:15]   disk    HP       OPEN-V           6008  /dev/sdat
+[0:0:1:16]   disk    HP       OPEN-V           6008  /dev/sdau
+[0:0:1:17]   disk    HP       OPEN-V           6008  /dev/sdav
+[0:0:1:18]   disk    HP       OPEN-V           6008  /dev/sdaw
+[0:0:1:19]   disk    HP       OPEN-V           6008  /dev/sdax
+[0:0:1:20]   disk    HP       OPEN-V           6008  /dev/sday
+[0:0:1:21]   disk    HP       OPEN-V           6008  /dev/sdaz
+[0:0:1:22]   disk    HP       OPEN-V           6008  /dev/sdba
+[0:0:1:23]   disk    HP       OPEN-V           6008  /dev/sdbb
+[0:0:1:24]   disk    HP       OPEN-V           6008  /dev/sdbc
+[0:0:1:25]   disk    HP       OPEN-V           6008  /dev/sdbd
+[0:0:1:26]   disk    HP       OPEN-V           6008  /dev/sdbe
+[0:0:1:27]   disk    HP       OPEN-V           6008  /dev/sdbf
+[0:0:1:28]   disk    HP       OPEN-V           6008  /dev/sdbg
+[0:0:1:29]   disk    HP       OPEN-V           6008  /dev/sdbh
+[0:0:1:30]   disk    HP       OPEN-V           6008  /dev/sdbi
+[0:0:1:31]   disk    HP       OPEN-V           6008  /dev/sdbj
+[0:0:1:32]   disk    HP       OPEN-V           6008  /dev/sdbk
+[0:0:1:33]   disk    HP       OPEN-V           6008  /dev/sdbl
+[0:0:1:34]   disk    HP       OPEN-V           6008  /dev/sdbm
+[0:0:1:35]   disk    HP       OPEN-V           6008  /dev/sdbn
+[0:0:1:36]   disk    HP       OPEN-V           6008  /dev/sdbo
+[0:0:1:37]   disk    HP       OPEN-V           6008  /dev/sdbp
+[0:0:1:38]   disk    HP       OPEN-V           6008  /dev/sdbq
+[0:0:1:39]   disk    HP       OPEN-V           6008  /dev/sdbr
+[0:0:1:40]   disk    HP       OPEN-V           6008  /dev/sdbs
+[0:0:1:41]   disk    HP       OPEN-V           6008  /dev/sdbt
+[0:0:1:42]   disk    HP       OPEN-V           6008  /dev/sdbu
+[0:0:1:43]   disk    HP       OPEN-V           6008  /dev/sdbv
+[0:0:1:44]   disk    HP       OPEN-V           6008  /dev/sdbw
+[0:0:1:45]   disk    HP       OPEN-V           6008  /dev/sdbx
+[0:0:2:0]    enclosu HP       P2000G3 FC/iSCSI T240  -       
+[0:0:2:1]    disk    HP       P2000G3 FC/iSCSI T240  /dev/sdby
+[0:0:2:2]    disk    HP       P2000G3 FC/iSCSI T240  /dev/sdbz
+[0:0:2:3]    disk    HP       P2000G3 FC/iSCSI T240  /dev/sdca
+[0:0:2:4]    disk    HP       P2000G3 FC/iSCSI T240  /dev/sdcb
+[0:0:2:5]    disk    HP       P2000G3 FC/iSCSI T240  /dev/sdcc
+[0:0:2:6]    disk    HP       P2000G3 FC/iSCSI T240  /dev/sdcd
+[0:0:2:7]    disk    HP       P2000G3 FC/iSCSI T240  /dev/sdce
+[0:0:2:8]    disk    HP       P2000G3 FC/iSCSI T240  /dev/sdcf
+[0:0:2:9]    disk    HP       P2000G3 FC/iSCSI T240  /dev/sdcg
+[0:0:2:10]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdch
+[0:0:2:11]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdci
+[0:0:2:12]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdcj
+[0:0:2:13]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdck
+[0:0:2:14]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdcl
+[0:0:2:15]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdcm
+[0:0:2:16]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdcn
+[0:0:2:17]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdco
+[0:0:2:18]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdcp
+[0:0:2:19]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdcq
+[0:0:2:20]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdcr
+[0:0:2:21]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdcs
+[0:0:2:22]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdct
+[0:0:2:23]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdcu
+[0:0:2:24]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdcv
+[0:0:2:25]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdcw
+[0:0:2:26]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdcx
+[0:0:2:27]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdcy
+[0:0:2:28]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdcz
+[0:0:2:29]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdda
+[0:0:2:30]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sddb
+[0:0:2:31]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sddc
+[0:0:2:32]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sddd
+[0:0:2:33]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdde
+[0:0:2:34]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sddf
+[0:0:2:35]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sddg
+[0:0:2:36]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sddh
+[0:0:2:37]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sddi
+[0:0:2:38]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sddj
+[0:0:2:39]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sddk
+[0:0:2:40]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sddl
+[0:0:2:41]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sddm
+[0:0:2:42]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sddn
+[0:0:2:43]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sddo
+[0:0:2:44]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sddp
+[0:0:2:45]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sddq
+[0:0:2:46]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sddr
+[0:0:3:0]    disk    HP       OPEN-V           7003  /dev/sdds
+[0:0:3:1]    disk    HP       OPEN-V           7003  /dev/sddt
+[0:0:3:2]    disk    HP       OPEN-V           7003  /dev/sddu
+[0:0:3:3]    disk    HP       OPEN-V           7003  /dev/sddv
+[0:0:3:4]    disk    HP       OPEN-V           7003  /dev/sddw
+[0:0:3:5]    disk    HP       OPEN-V           7003  /dev/sddx
+[0:0:3:6]    disk    HP       OPEN-V           7003  /dev/sddy
+[0:0:3:7]    disk    HP       OPEN-V           7003  /dev/sddz
+[0:0:3:8]    disk    HP       OPEN-V           7003  /dev/sdea
+[0:0:3:9]    disk    HP       OPEN-V           7003  /dev/sdeb
+[0:0:3:10]   disk    HP       OPEN-V           7003  /dev/sdec
+[0:0:3:11]   disk    HP       OPEN-V           7003  /dev/sded
+[0:0:3:12]   disk    HP       OPEN-V           7003  /dev/sdee
+[0:0:3:13]   disk    HP       OPEN-V           7003  /dev/sdef
+[0:0:3:14]   disk    HP       OPEN-V           7003  /dev/sdeg
+[0:0:3:15]   disk    HP       OPEN-V           7003  /dev/sdeh
+[0:0:3:16]   disk    HP       OPEN-V           7003  /dev/sdei
+[0:0:3:17]   disk    HP       OPEN-V           7003  /dev/sdej
+[0:0:3:18]   disk    HP       OPEN-V           7003  /dev/sdek
+[0:0:3:19]   disk    HP       OPEN-V           7003  /dev/sdel
+[0:0:3:20]   disk    HP       OPEN-V           7003  /dev/sdem
+[0:0:3:21]   disk    HP       OPEN-V           7003  /dev/sden
+[0:0:3:22]   disk    HP       OPEN-V           7003  /dev/sdeo
+[0:0:3:23]   disk    HP       OPEN-V           7003  /dev/sdep
+[0:0:3:24]   disk    HP       OPEN-V           7003  /dev/sdeq
+[0:0:3:25]   disk    HP       OPEN-V           7003  /dev/sder
+[0:0:3:26]   disk    HP       OPEN-V           7003  /dev/sdes
+[0:0:3:27]   disk    HP       OPEN-V           7003  /dev/sdet
+[0:0:3:28]   disk    HP       OPEN-V           7003  /dev/sdeu
+[0:0:3:29]   disk    HP       OPEN-V           7003  /dev/sdev
+[0:0:3:30]   disk    HP       OPEN-V           7003  /dev/sdew
+[0:0:3:31]   disk    HP       OPEN-V           7003  /dev/sdex
+[0:0:3:32]   disk    HP       OPEN-V           7003  /dev/sdey
+[0:0:3:33]   disk    HP       OPEN-V           7003  /dev/sdez
+[0:0:3:34]   disk    HP       OPEN-V           7003  /dev/sdfa
+[0:0:3:35]   disk    HP       OPEN-V           7003  /dev/sdfb
+[0:0:3:36]   disk    HP       OPEN-V           7003  /dev/sdfc
+[0:0:3:37]   disk    HP       OPEN-V           7003  /dev/sdfd
+[0:0:3:38]   disk    HP       OPEN-V           7003  /dev/sdfe
+[0:0:3:39]   disk    HP       OPEN-V           7003  /dev/sdff
+[0:0:3:40]   disk    HP       OPEN-V           7003  /dev/sdfg
+[0:0:3:41]   disk    HP       OPEN-V           7003  /dev/sdfh
+[0:0:3:42]   disk    HP       OPEN-V           7003  /dev/sdfi
+[0:0:3:43]   disk    HP       OPEN-V           7003  /dev/sdfj
+[0:0:3:44]   disk    HP       OPEN-V           7003  /dev/sdfk
+[0:0:4:0]    storage HP       HSV400           1100  -       
+[0:0:4:1]    disk    HP       HSV400           1100  /dev/sdfl
+[0:0:4:2]    disk    HP       HSV400           1100  /dev/sdfm
+[0:0:4:3]    disk    HP       HSV400           1100  /dev/sdfn
+[0:0:4:4]    disk    HP       HSV400           1100  /dev/sdfo
+[0:0:4:5]    disk    HP       HSV400           1100  /dev/sdfp
+[0:0:4:6]    disk    HP       HSV400           1100  /dev/sdfq
+[0:0:4:7]    disk    HP       HSV400           1100  /dev/sdfr
+[0:0:4:8]    disk    HP       HSV400           1100  /dev/sdfs
+[0:0:4:9]    disk    HP       HSV400           1100  /dev/sdft
+[0:0:4:10]   disk    HP       HSV400           1100  /dev/sdfu
+[0:0:4:11]   disk    HP       HSV400           1100  /dev/sdfv
+[0:0:4:12]   disk    HP       HSV400           1100  /dev/sdfw
+[0:0:4:13]   disk    HP       HSV400           1100  /dev/sdfx
+[0:0:4:14]   disk    HP       HSV400           1100  /dev/sdfy
+[0:0:4:15]   disk    HP       HSV400           1100  /dev/sdfz
+[0:0:4:16]   disk    HP       HSV400           1100  /dev/sdga
+[0:0:4:17]   disk    HP       HSV400           1100  /dev/sdgb
+[0:0:4:18]   disk    HP       HSV400           1100  /dev/sdgc
+[0:0:4:19]   disk    HP       HSV400           1100  /dev/sdgd
+[0:0:4:20]   disk    HP       HSV400           1100  /dev/sdge
+[0:0:4:21]   disk    HP       HSV400           1100  /dev/sdgf
+[0:0:4:22]   disk    HP       HSV400           1100  /dev/sdgg
+[0:0:4:23]   disk    HP       HSV400           1100  /dev/sdgh
+[0:0:4:24]   disk    HP       HSV400           1100  /dev/sdgi
+[0:0:4:25]   disk    HP       HSV400           1100  /dev/sdgj
+[0:0:4:26]   disk    HP       HSV400           1100  /dev/sdgk
+[0:0:4:27]   disk    HP       HSV400           1100  /dev/sdgl
+[0:0:4:28]   disk    HP       HSV400           1100  /dev/sdgm
+[0:0:4:29]   disk    HP       HSV400           1100  /dev/sdgn
+[0:0:4:30]   disk    HP       HSV400           1100  /dev/sdgo
+[1:0:0:1]    disk    3PARdata VV               3112  /dev/sdgp
+[1:0:0:2]    disk    3PARdata VV               3112  /dev/sdgq
+[1:0:0:3]    disk    3PARdata VV               3112  /dev/sdgr
+[1:0:0:4]    disk    3PARdata VV               3112  /dev/sdgs
+[1:0:0:5]    disk    3PARdata VV               3112  /dev/sdgt
+[1:0:0:6]    disk    3PARdata VV               3112  /dev/sdgu
+[1:0:0:7]    disk    3PARdata VV               3112  /dev/sdgv
+[1:0:0:8]    disk    3PARdata VV               3112  /dev/sdgw
+[1:0:0:9]    disk    3PARdata VV               3112  /dev/sdgx
+[1:0:0:10]   disk    3PARdata VV               3112  /dev/sdgy
+[1:0:0:11]   disk    3PARdata VV               3112  /dev/sdgz
+[1:0:0:12]   disk    3PARdata VV               3112  /dev/sdha
+[1:0:0:13]   disk    3PARdata VV               3112  /dev/sdhb
+[1:0:0:14]   disk    3PARdata VV               3112  /dev/sdhc
+[1:0:0:15]   disk    3PARdata VV               3112  /dev/sdhd
+[1:0:0:16]   disk    3PARdata VV               3112  /dev/sdhe
+[1:0:0:17]   disk    3PARdata VV               3112  /dev/sdhf
+[1:0:0:18]   disk    3PARdata VV               3112  /dev/sdhg
+[1:0:0:19]   disk    3PARdata VV               3112  /dev/sdhh
+[1:0:0:20]   disk    3PARdata VV               3112  /dev/sdhi
+[1:0:0:21]   disk    3PARdata VV               3112  /dev/sdhj
+[1:0:0:22]   disk    3PARdata VV               3112  /dev/sdhk
+[1:0:0:23]   disk    3PARdata VV               3112  /dev/sdhl
+[1:0:0:24]   disk    3PARdata VV               3112  /dev/sdhm
+[1:0:0:25]   disk    3PARdata VV               3112  /dev/sdhn
+[1:0:0:26]   disk    3PARdata VV               3112  /dev/sdho
+[1:0:0:27]   disk    3PARdata VV               3112  /dev/sdhp
+[1:0:0:28]   disk    3PARdata VV               3112  /dev/sdhq
+[1:0:0:29]   disk    3PARdata VV               3112  /dev/sdhr
+[1:0:0:30]   disk    3PARdata VV               3112  /dev/sdhs
+[1:0:0:254]  enclosu 3PARdata SES              3112  -       
+[1:0:1:0]    enclosu HP       P2000G3 FC/iSCSI T240  -       
+[1:0:1:1]    disk    HP       P2000G3 FC/iSCSI T240  /dev/sdht
+[1:0:1:2]    disk    HP       P2000G3 FC/iSCSI T240  /dev/sdhu
+[1:0:1:3]    disk    HP       P2000G3 FC/iSCSI T240  /dev/sdhv
+[1:0:1:4]    disk    HP       P2000G3 FC/iSCSI T240  /dev/sdhw
+[1:0:1:5]    disk    HP       P2000G3 FC/iSCSI T240  /dev/sdhx
+[1:0:1:6]    disk    HP       P2000G3 FC/iSCSI T240  /dev/sdhy
+[1:0:1:7]    disk    HP       P2000G3 FC/iSCSI T240  /dev/sdhz
+[1:0:1:8]    disk    HP       P2000G3 FC/iSCSI T240  /dev/sdia
+[1:0:1:9]    disk    HP       P2000G3 FC/iSCSI T240  /dev/sdib
+[1:0:1:10]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdic
+[1:0:1:11]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdid
+[1:0:1:12]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdie
+[1:0:1:13]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdif
+[1:0:1:14]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdig
+[1:0:1:15]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdih
+[1:0:1:16]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdii
+[1:0:1:17]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdij
+[1:0:1:18]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdik
+[1:0:1:19]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdil
+[1:0:1:20]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdim
+[1:0:1:21]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdin
+[1:0:1:22]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdio
+[1:0:1:23]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdip
+[1:0:1:24]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdiq
+[1:0:1:25]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdir
+[1:0:1:26]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdis
+[1:0:1:27]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdit
+[1:0:1:28]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdiu
+[1:0:1:29]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdiv
+[1:0:1:30]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdiw
+[1:0:1:31]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdix
+[1:0:1:32]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdiy
+[1:0:1:33]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdiz
+[1:0:1:34]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdja
+[1:0:1:35]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdjb
+[1:0:1:36]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdjc
+[1:0:1:37]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdjd
+[1:0:1:38]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdje
+[1:0:1:39]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdjf
+[1:0:1:40]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdjg
+[1:0:1:41]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdjh
+[1:0:1:42]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdji
+[1:0:1:43]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdjj
+[1:0:1:44]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdjk
+[1:0:1:45]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdjl
+[1:0:1:46]   disk    HP       P2000G3 FC/iSCSI T240  /dev/sdjm
+[1:0:2:0]    storage HP       HSV400           1100  -       
+[1:0:2:1]    disk    HP       HSV400           1100  /dev/sdjn
+[1:0:2:2]    disk    HP       HSV400           1100  /dev/sdjo
+[1:0:2:3]    disk    HP       HSV400           1100  /dev/sdjp
+[1:0:2:4]    disk    HP       HSV400           1100  /dev/sdjq
+[1:0:2:5]    disk    HP       HSV400           1100  /dev/sdjr
+[1:0:2:6]    disk    HP       HSV400           1100  /dev/sdjs
+[1:0:2:7]    disk    HP       HSV400           1100  /dev/sdjt
+[1:0:2:8]    disk    HP       HSV400           1100  /dev/sdju
+[1:0:2:9]    disk    HP       HSV400           1100  /dev/sdjv
+[1:0:2:10]   disk    HP       HSV400           1100  /dev/sdjw
+[1:0:2:11]   disk    HP       HSV400           1100  /dev/sdjx
+[1:0:2:12]   disk    HP       HSV400           1100  /dev/sdjy
+[1:0:2:13]   disk    HP       HSV400           1100  /dev/sdjz
+[1:0:2:14]   disk    HP       HSV400           1100  /dev/sdka
+[1:0:2:15]   disk    HP       HSV400           1100  /dev/sdkb
+[1:0:2:16]   disk    HP       HSV400           1100  /dev/sdkc
+[1:0:2:17]   disk    HP       HSV400           1100  /dev/sdkd
+[1:0:2:18]   disk    HP       HSV400           1100  /dev/sdke
+[1:0:2:19]   disk    HP       HSV400           1100  /dev/sdkf
+[1:0:2:20]   disk    HP       HSV400           1100  /dev/sdkg
+[1:0:2:21]   disk    HP       HSV400           1100  /dev/sdkh
+[1:0:2:22]   disk    HP       HSV400           1100  /dev/sdki
+[1:0:2:23]   disk    HP       HSV400           1100  /dev/sdkj
+[1:0:2:24]   disk    HP       HSV400           1100  /dev/sdkk
+[1:0:2:25]   disk    HP       HSV400           1100  /dev/sdkl
+[1:0:2:26]   disk    HP       HSV400           1100  /dev/sdkm
+[1:0:2:27]   disk    HP       HSV400           1100  /dev/sdkn
+[1:0:2:28]   disk    HP       HSV400           1100  /dev/sdko
+[1:0:2:29]   disk    HP       HSV400           1100  /dev/sdkp
+[1:0:2:30]   disk    HP       HSV400           1100  /dev/sdkq
+[1:0:3:0]    disk    HP       OPEN-V           6008  /dev/sdkr
+[1:0:3:1]    disk    HP       OPEN-V           6008  /dev/sdks
+[1:0:3:2]    disk    HP       OPEN-V           6008  /dev/sdkt
+[1:0:3:3]    disk    HP       OPEN-V           6008  /dev/sdku
+[1:0:3:4]    disk    HP       OPEN-V           6008  /dev/sdkv
+[1:0:3:5]    disk    HP       OPEN-V           6008  /dev/sdkw
+[1:0:3:6]    disk    HP       OPEN-V           6008  /dev/sdkx
+[1:0:3:7]    disk    HP       OPEN-V           6008  /dev/sdky
+[1:0:3:8]    disk    HP       OPEN-V           6008  /dev/sdkz
+[1:0:3:9]    disk    HP       OPEN-V           6008  /dev/sdla
+[1:0:3:10]   disk    HP       OPEN-V           6008  /dev/sdlb
+[1:0:3:11]   disk    HP       OPEN-V           6008  /dev/sdlc
+[1:0:3:12]   disk    HP       OPEN-V           6008  /dev/sdld
+[1:0:3:13]   disk    HP       OPEN-V           6008  /dev/sdle
+[1:0:3:14]   disk    HP       OPEN-V           6008  /dev/sdlf
+[1:0:3:15]   disk    HP       OPEN-V           6008  /dev/sdlg
+[1:0:3:16]   disk    HP       OPEN-V           6008  /dev/sdlh
+[1:0:3:17]   disk    HP       OPEN-V           6008  /dev/sdli
+[1:0:3:18]   disk    HP       OPEN-V           6008  /dev/sdlj
+[1:0:3:19]   disk    HP       OPEN-V           6008  /dev/sdlk
+[1:0:3:20]   disk    HP       OPEN-V           6008  /dev/sdll
+[1:0:3:21]   disk    HP       OPEN-V           6008  /dev/sdlm
+[1:0:3:22]   disk    HP       OPEN-V           6008  /dev/sdln
+[1:0:3:23]   disk    HP       OPEN-V           6008  /dev/sdlo
+[1:0:3:24]   disk    HP       OPEN-V           6008  /dev/sdlp
+[1:0:3:25]   disk    HP       OPEN-V           6008  /dev/sdlq
+[1:0:3:26]   disk    HP       OPEN-V           6008  /dev/sdlr
+[1:0:3:27]   disk    HP       OPEN-V           6008  /dev/sdls
+[1:0:3:28]   disk    HP       OPEN-V           6008  /dev/sdlt
+[1:0:3:29]   disk    HP       OPEN-V           6008  /dev/sdlu
+[1:0:3:30]   disk    HP       OPEN-V           6008  /dev/sdlv
+[1:0:3:31]   disk    HP       OPEN-V           6008  /dev/sdlw
+[1:0:3:32]   disk    HP       OPEN-V           6008  /dev/sdlx
+[1:0:3:33]   disk    HP       OPEN-V           6008  /dev/sdly
+[1:0:3:34]   disk    HP       OPEN-V           6008  /dev/sdlz
+[1:0:3:35]   disk    HP       OPEN-V           6008  /dev/sdma
+[1:0:3:36]   disk    HP       OPEN-V           6008  /dev/sdmb
+[1:0:3:37]   disk    HP       OPEN-V           6008  /dev/sdmc
+[1:0:3:38]   disk    HP       OPEN-V           6008  /dev/sdmd
+[1:0:3:39]   disk    HP       OPEN-V           6008  /dev/sdme
+[1:0:3:40]   disk    HP       OPEN-V           6008  /dev/sdmf
+[1:0:3:41]   disk    HP       OPEN-V           6008  /dev/sdmg
+[1:0:3:42]   disk    HP       OPEN-V           6008  /dev/sdmh
+[1:0:3:43]   disk    HP       OPEN-V           6008  /dev/sdmi
+[1:0:3:44]   disk    HP       OPEN-V           6008  /dev/sdmj
+[1:0:3:45]   disk    HP       OPEN-V           6008  /dev/sdmk
+[1:0:4:0]    disk    HP       OPEN-V           7003  /dev/sdml
+[1:0:4:1]    disk    HP       OPEN-V           7003  /dev/sdmm
+[1:0:4:2]    disk    HP       OPEN-V           7003  /dev/sdmn
+[1:0:4:3]    disk    HP       OPEN-V           7003  /dev/sdmo
+[1:0:4:4]    disk    HP       OPEN-V           7003  /dev/sdmp
+[1:0:4:5]    disk    HP       OPEN-V           7003  /dev/sdmq
+[1:0:4:6]    disk    HP       OPEN-V           7003  /dev/sdmr
+[1:0:4:7]    disk    HP       OPEN-V           7003  /dev/sdms
+[1:0:4:8]    disk    HP       OPEN-V           7003  /dev/sdmt
+[1:0:4:9]    disk    HP       OPEN-V           7003  /dev/sdmu
+[1:0:4:10]   disk    HP       OPEN-V           7003  /dev/sdmv
+[1:0:4:11]   disk    HP       OPEN-V           7003  /dev/sdmw
+[1:0:4:12]   disk    HP       OPEN-V           7003  /dev/sdmx
+[1:0:4:13]   disk    HP       OPEN-V           7003  /dev/sdmy
+[1:0:4:14]   disk    HP       OPEN-V           7003  /dev/sdmz
+[1:0:4:15]   disk    HP       OPEN-V           7003  /dev/sdna
+[1:0:4:16]   disk    HP       OPEN-V           7003  /dev/sdnb
+[1:0:4:17]   disk    HP       OPEN-V           7003  /dev/sdnc
+[1:0:4:18]   disk    HP       OPEN-V           7003  /dev/sdnd
+[1:0:4:19]   disk    HP       OPEN-V           7003  /dev/sdne
+[1:0:4:20]   disk    HP       OPEN-V           7003  /dev/sdnf
+[1:0:4:21]   disk    HP       OPEN-V           7003  /dev/sdng
+[1:0:4:22]   disk    HP       OPEN-V           7003  /dev/sdnh
+[1:0:4:23]   disk    HP       OPEN-V           7003  /dev/sdni
+[1:0:4:24]   disk    HP       OPEN-V           7003  /dev/sdnj
+[1:0:4:25]   disk    HP       OPEN-V           7003  /dev/sdnk
+[1:0:4:26]   disk    HP       OPEN-V           7003  /dev/sdnl
+[1:0:4:27]   disk    HP       OPEN-V           7003  /dev/sdnm
+[1:0:4:28]   disk    HP       OPEN-V           7003  /dev/sdnn
+[1:0:4:29]   disk    HP       OPEN-V           7003  /dev/sdno
+[1:0:4:30]   disk    HP       OPEN-V           7003  /dev/sdnp
+[1:0:4:31]   disk    HP       OPEN-V           7003  /dev/sdnq
+[1:0:4:32]   disk    HP       OPEN-V           7003  /dev/sdnr
+[1:0:4:33]   disk    HP       OPEN-V           7003  /dev/sdns
+[1:0:4:34]   disk    HP       OPEN-V           7003  /dev/sdnt
+[1:0:4:35]   disk    HP       OPEN-V           7003  /dev/sdnu
+[1:0:4:36]   disk    HP       OPEN-V           7003  /dev/sdnv
+[1:0:4:37]   disk    HP       OPEN-V           7003  /dev/sdnw
+[1:0:4:38]   disk    HP       OPEN-V           7003  /dev/sdnx
+[1:0:4:39]   disk    HP       OPEN-V           7003  /dev/sdny
+[1:0:4:40]   disk    HP       OPEN-V           7003  /dev/sdnz
+[1:0:4:41]   disk    HP       OPEN-V           7003  /dev/sdoa
+[1:0:4:42]   disk    HP       OPEN-V           7003  /dev/sdob
+[1:0:4:43]   disk    HP       OPEN-V           7003  /dev/sdoc
+[1:0:4:44]   disk    HP       OPEN-V           7003  /dev/sdod
+[2:0:0:0]    cd/dvd  TEAC     DV-28S-W         C.2C  /dev/sr0
+[4:0:0:0]    disk    KVM      vmDisk           0.01  /dev/sdoe
+[5:0:0:0]    cd/dvd  KVM      vmDisk-CD        0.01  /dev/sr1

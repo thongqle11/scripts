@@ -1,0 +1,59 @@
+#!/bin/sh
+echo "***************************************"
+echo "***************************************"
+echo "   SETTING BROCADE CEE PORTS ON/OFF   *"
+echo "***************************************"
+echo "***************************************"
+echo " Please enter the BROCADE SWITCH IP "
+read SWITCHIP
+echo " Please enter the First CEE Port , EX: 0/1 "
+read PORT1
+echo " Please enter the Second CEE Port , EX: 0/2 "
+read PORT2
+echo " Please enter the Third CEE Port , EX: 0/3 "
+read PORT3
+echo " Please enter the Fourth CEE Port , EX: 0/4 "
+read PORT4
+while true
+do
+  ( sleep 5
+  echo admin
+  sleep 2
+  echo Qlogic01
+  sleep 2
+  echo cmsh
+  sleep 2
+  echo config t
+  sleep 2
+  echo interface TenGigabitethernet $PORT1 
+  sleep 2
+  echo shut
+  sleep 10
+  echo no shutdown
+  sleep 60
+  echo interface TenGigabitethernet $PORT2 
+  sleep 2
+  echo shut
+  sleep 10
+  echo no shutdown
+  sleep 60
+  echo interface TenGigabitethernet $PORT3 
+  sleep 2
+  echo shut
+  sleep 15
+  echo no shutdown
+  sleep 120
+  echo interface TenGigabitethernet $PORT4 
+  sleep 2
+  echo shut
+  sleep 25
+  echo no shutdown
+  sleep 5
+  echo exit
+  sleep 2
+  echo exit
+  sleep 2
+  echo exit
+  sleep 2
+) | telnet $SWITCHIP 
+done

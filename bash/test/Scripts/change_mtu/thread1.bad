@@ -1,0 +1,107 @@
+===============================================================================
+Thu Jun  4 10:55:50 2015: thread1.bad
+
+/opt/medusa_labs/test_tools/linux26-x64/bin/sock -M5 -f192.168.1.126:192.168.1.158 -d120 -m31
+
+==============================================================================
+06/04/15 10:55:50 Thread:1 Error:17 - An I/O has been pending in excess of monitor watch time! (192.168.1.126@55636-192.168.1.158@56631 reqSize:65024 retSize:0)
+ERR: --------------------------------------------------------------------------
+ERR: I/O Operation:        Read
+ERR: Session ID:           0x3538 / 13624
+ERR: Loop count:           0
+ERR: Elapsed time:         00:00:00:07
+ERR: File name:            192.168.1.126@55636-192.168.1.158@56631
+ERR: Data pattern:         17 / 16-bit inc/dec pattern
+ERR: Pattern cycle length: 1
+ERR: Pattern direction:    Up/Even
+ERR: I/O direction:        Forward
+ERR: Loops:                0
+ERR: Read buffer address   0x6EAC00 / 7252992
+ERR: I/O size (expected):  0xFE00 / 65024
+ERR: I/O size (actual):    0x0 / 0
+
+==============================================================================
+06/04/15 10:55:54 Thread:1 Error:20 - I/O HALT! No completion has occurred in monitor watch time! (192.168.1.126@55636-192.168.1.158@56631 reqSize:65024 retSize:0)
+ERR: --------------------------------------------------------------------------
+ERR: I/O Operation:        Read
+ERR: Session ID:           0x3538 / 13624
+ERR: Loop count:           0
+ERR: Elapsed time:         00:00:00:11
+ERR: File name:            192.168.1.126@55636-192.168.1.158@56631
+ERR: Data pattern:         17 / 16-bit inc/dec pattern
+ERR: Pattern cycle length: 1
+ERR: Pattern direction:    Up/Even
+ERR: I/O direction:        Forward
+ERR: Loops:                0
+ERR: Read buffer address   0x6EAC00 / 7252992
+ERR: I/O size (expected):  0xFE00 / 65024
+ERR: I/O size (actual):    0x0 / 0
+
+==============================================================================
+06/04/15 10:55:55 Thread:1 Error:20 - I/O HALT! No completion has occurred in monitor watch time! (192.168.1.126@55636-192.168.1.158@56631 reqSize:65024 retSize:0)
+ERR: --------------------------------------------------------------------------
+ERR: I/O Operation:        Read
+ERR: Session ID:           0x3538 / 13624
+ERR: Loop count:           0
+ERR: Elapsed time:         00:00:00:12
+ERR: File name:            192.168.1.126@55636-192.168.1.158@56631
+ERR: Data pattern:         17 / 16-bit inc/dec pattern
+ERR: Pattern cycle length: 1
+ERR: Pattern direction:    Up/Even
+ERR: I/O direction:        Forward
+ERR: Loops:                0
+ERR: Read buffer address   0x6EAC00 / 7252992
+ERR: I/O size (expected):  0xFE00 / 65024
+ERR: I/O size (actual):    0x0 / 0
+
+==============================================================================
+06/04/15 10:55:56 Thread:1 Error:20 - I/O HALT! No completion has occurred in monitor watch time! (192.168.1.126@55636-192.168.1.158@56631 reqSize:65024 retSize:0)
+ERR: --------------------------------------------------------------------------
+ERR: I/O Operation:        Read
+ERR: Session ID:           0x3538 / 13624
+ERR: Loop count:           0
+ERR: Elapsed time:         00:00:00:13
+ERR: File name:            192.168.1.126@55636-192.168.1.158@56631
+ERR: Data pattern:         17 / 16-bit inc/dec pattern
+ERR: Pattern cycle length: 1
+ERR: Pattern direction:    Up/Even
+ERR: I/O direction:        Forward
+ERR: Loops:                0
+ERR: Read buffer address   0x6EAC00 / 7252992
+ERR: I/O size (expected):  0xFE00 / 65024
+ERR: I/O size (actual):    0x0 / 0
+
+==============================================================================
+06/04/15 10:55:57 Thread:1 Error:20 - I/O HALT! No completion has occurred in monitor watch time! (192.168.1.126@55636-192.168.1.158@56631 reqSize:65024 retSize:0)
+ERR: --------------------------------------------------------------------------
+ERR: I/O Operation:        Read
+ERR: Session ID:           0x3538 / 13624
+ERR: Loop count:           0
+ERR: Elapsed time:         00:00:00:14
+ERR: File name:            192.168.1.126@55636-192.168.1.158@56631
+ERR: Data pattern:         17 / 16-bit inc/dec pattern
+ERR: Pattern cycle length: 1
+ERR: Pattern direction:    Up/Even
+ERR: I/O direction:        Forward
+ERR: Loops:                0
+ERR: Read buffer address   0x6EAC00 / 7252992
+ERR: I/O size (expected):  0xFE00 / 65024
+ERR: I/O size (actual):    0x0 / 0
+
+==============================================================================
+06/04/15 10:55:58 Thread:1 Error:20 - I/O HALT! No completion has occurred in monitor watch time! (192.168.1.126@55636-192.168.1.158@56631 reqSize:65024 retSize:0)
+ERR: --------------------------------------------------------------------------
+ERR: I/O Operation:        Read
+ERR: Session ID:           0x3538 / 13624
+ERR: Loop count:           0
+ERR: Elapsed time:         00:00:00:15
+ERR: File name:            192.168.1.126@55636-192.168.1.158@56631
+ERR: Data pattern:         17 / 16-bit inc/dec pattern
+ERR: Pattern cycle length: 1
+ERR: Pattern direction:    Up/Even
+ERR: I/O direction:        Forward
+ERR: Loops:                0
+ERR: Read buffer address   0x6EAC00 / 7252992
+ERR: I/O size (expected):  0xFE00 / 65024
+ERR: I/O size (actual):    0x0 / 0
+
